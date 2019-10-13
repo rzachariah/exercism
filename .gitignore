@@ -1,2 +1,4 @@
 
-csharp/pangram/.exercism/metadata.json
+metadata.json
+bin/
+obj/
