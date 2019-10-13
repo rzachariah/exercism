@@ -1,0 +1,14 @@
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.deps.json
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.runtimeconfig.json
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.runtimeconfig.dev.json
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.dll
+/Users/rzachariah/Exercism/csharp/acronym/bin/Debug/netcoreapp2.1/Acronym.pdb
+/Users/rzachariah/Exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.csprojAssemblyReference.cache
+/Users/rzachariah/Exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.csproj.CoreCompileInputs.cache
+/Users/rzachariah/Exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.AssemblyInfoInputs.cache
+/Users/rzachariah/Exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.AssemblyInfo.cs
+/Users/rzachariah/Exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.dll
+/Users/rzachariah/Exercism/csharp/acronym/obj/Debug/netcoreapp2.1/Acronym.pdb
