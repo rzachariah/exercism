@@ -3,3 +3,4 @@ metadata.json
 bin/
 obj/
 .vscode
+.vs/

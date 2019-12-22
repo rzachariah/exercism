@@ -4,33 +4,24 @@ using System.Linq;
 
 public class HighScores
 {
-    private List<int> _scores;
+    private readonly List<int> _scores;
 
     public HighScores(List<int> list)
     {
         _scores = list;
     }
 
-    public List<int> Scores()
-    {
-        return _scores;
-    }
+    public List<int> Scores() => _scores;
 
-    public int Latest()
-    {
-        return _scores.Last();
-    }
+    public int Latest() => _scores.Last();
 
-    public int PersonalBest()
-    {
-        return _scores.Max();
-    }
+    public int PersonalBest() => _scores.Max();
 
     public List<int> PersonalTopThree()
     {
-        var temp = _scores.ToList();
-        temp.Sort();
-        temp.Reverse();
-        return temp.Take(3).ToList();
+        return _scores
+            .OrderByDescending(x => x)
+            .Take(3)
+            .ToList();
     }
 }
